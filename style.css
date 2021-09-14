@@ -1,0 +1,32 @@
+.textoFa{
+    color: blue;
+}
+
+.color-rojo{
+    color:red
+}
+.color-amarrillo{
+    color:yellow
+}
+.color-verde{
+    color:green
+}
+
+
+li{
+    cursor: pointer;
+}
+
+
+
+#bg-principal{
+    background-color: #ffc107;
+}
+
+
+
+footer{
+    color: white;
+    margin:0;
+    padding: 10px;
+}
